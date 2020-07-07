@@ -1,0 +1,4 @@
+const 
+
+
+export const directoryRedcucer
